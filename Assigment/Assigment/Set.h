@@ -6,37 +6,47 @@
 
 using namespace std;
 
-class Set : public LinkedList<Tile*> {
+class Set : protected LinkedList<Tile*> {
 public:
-    Set(bool);
-    bool put(Tile*);
-    Tile* get(int);
-    pair<Set, Set> split(int);
-    bool merge(const Set&);
+    Set(char);
+    char getType() const;
+    Tile* pop(int);
+    Tile* get(int) const;
+    void insert(int, Tile*);
     int size() const;
-    bool isComplete() const;
     void display(bool) const;
+    
+    virtual bool put(Tile*) = 0;
+    virtual Set* split(int) = 0;
+    virtual bool merge(Set*) = 0;
+    virtual bool isComplete() = 0;
+
 private:
-    bool isGroup;
+    char type;
 };
 
 Set::Set(bool group) : isGroup(group) {
+    Set::type = type;
 }
 
-bool Set::put(Tile* tile) {
-    // Implementation missing
+bool Set::getType(Tile* tile) {
+    return type;
 }
 
-Tile* Set::get(int pos) {
-    // Implementation missing
+Tile* Set::pop(int pos) {
+    if (pos < 0 || pos >= size())
+        return nullptr;
+    Tile* t = LinkedList<Tile*>::get(pos + 1);
+    erase(pos + 1);
+    return t;
 }
 
-pair<Set, Set> Set::split(int pos) {
-    // Implementation missing
+Tile* Set::get(int pos) const{
+    return LinkedList<Tile*>::get(pos + 1);
 }
 
-bool Set::merge(const Set& other) {
-    // Implementation missing
+void Set::insert(int pos, Tile* t) {
+    LinkedList<Tile*>::insert(pos + 1, t);
 }
 
 int Set::size() const {
