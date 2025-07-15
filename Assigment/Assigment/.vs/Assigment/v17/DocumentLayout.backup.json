@@ -1,10 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\a1\\Documents\\GitHub\\C-assigment\\Assigment\\Assigment\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\C-assigment\\Assigment\\Assigment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\a1\\Documents\\GitHub\\C-assigment\\Assigment\\Assigment\\Assigment.vcxproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assigment.vcxproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\GitHub\\C-assigment\\Assigment\\Assigment\\GroupSet.h||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GroupSet.h||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\GitHub\\C-assigment\\Assigment\\Assigment\\RunSet.h||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RunSet.h||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\GitHub\\C-assigment\\Assigment\\Assigment\\Set.h||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Set.h||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\GitHub\\C-assigment\\Assigment\\Assigment\\Sets.h||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Sets.h||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\GitHub\\C-assigment\\Assigment\\Assigment\\Joker.h||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Joker.h||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\GitHub\\C-assigment\\Assigment\\Assigment\\Main.cpp||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Main.cpp||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\GitHub\\C-assigment\\Assigment\\Assigment\\LinkedList.h||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LinkedList.h||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\GitHub\\C-assigment\\Assigment\\Assigment\\Tile.h||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tile.h||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\GitHub\\C-assigment\\Assigment\\Assigment\\Rack.h||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Rack.h||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\GitHub\\C-assigment\\Assigment\\Assigment\\Pool.h||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pool.h||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +50,136 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\C-assigment\\Assigment\\Assigment\\Main.cpp",
+              "RelativeDocumentMoniker": "Main.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\C-assigment\\Assigment\\Assigment\\Main.cpp",
+              "RelativeToolTip": "Main.cpp",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-15T11:40:28.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Joker.h",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\C-assigment\\Assigment\\Assigment\\Joker.h",
+              "RelativeDocumentMoniker": "Joker.h",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\C-assigment\\Assigment\\Assigment\\Joker.h",
+              "RelativeToolTip": "Joker.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-15T11:50:46.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Assigment.vcxproj.user",
-              "DocumentMoniker": "C:\\Users\\a1\\Documents\\GitHub\\C-assigment\\Assigment\\Assigment\\Assigment.vcxproj.user",
-              "RelativeDocumentMoniker": "Assigment.vcxproj.user",
-              "ToolTip": "C:\\Users\\a1\\Documents\\GitHub\\C-assigment\\Assigment\\Assigment\\Assigment.vcxproj.user",
-              "RelativeToolTip": "Assigment.vcxproj.user",
+              "Title": "GroupSet.h",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\C-assigment\\Assigment\\Assigment\\GroupSet.h",
+              "RelativeDocumentMoniker": "GroupSet.h",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\C-assigment\\Assigment\\Assigment\\GroupSet.h",
+              "RelativeToolTip": "GroupSet.h",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAIwG0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-15T11:50:46.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LinkedList.h",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\C-assigment\\Assigment\\Assigment\\LinkedList.h",
+              "RelativeDocumentMoniker": "LinkedList.h",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\C-assigment\\Assigment\\Assigment\\LinkedList.h",
+              "RelativeToolTip": "LinkedList.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
-              "WhenOpened": "2025-07-15T04:23:35.982Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-15T11:40:27.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Pool.h",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\C-assigment\\Assigment\\Assigment\\Pool.h",
+              "RelativeDocumentMoniker": "Pool.h",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\C-assigment\\Assigment\\Assigment\\Pool.h",
+              "RelativeToolTip": "Pool.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-15T11:40:27.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Rack.h",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\C-assigment\\Assigment\\Assigment\\Rack.h",
+              "RelativeDocumentMoniker": "Rack.h",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\C-assigment\\Assigment\\Assigment\\Rack.h",
+              "RelativeToolTip": "Rack.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-15T11:40:26.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RunSet.h",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\C-assigment\\Assigment\\Assigment\\RunSet.h",
+              "RelativeDocumentMoniker": "RunSet.h",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\C-assigment\\Assigment\\Assigment\\RunSet.h",
+              "RelativeToolTip": "RunSet.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-15T11:40:25.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Set.h",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\C-assigment\\Assigment\\Assigment\\Set.h",
+              "RelativeDocumentMoniker": "Set.h",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\C-assigment\\Assigment\\Assigment\\Set.h",
+              "RelativeToolTip": "Set.h",
+              "ViewState": "AgIAADcAAAAAAAAAAAAIwFIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-15T11:40:25.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sets.h",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\C-assigment\\Assigment\\Assigment\\Sets.h",
+              "RelativeDocumentMoniker": "Sets.h",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\C-assigment\\Assigment\\Assigment\\Sets.h",
+              "RelativeToolTip": "Sets.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-15T11:40:24.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tile.h",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\C-assigment\\Assigment\\Assigment\\Tile.h",
+              "RelativeDocumentMoniker": "Tile.h",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\C-assigment\\Assigment\\Assigment\\Tile.h",
+              "RelativeToolTip": "Tile.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-15T11:40:22.491Z",
               "EditorCaption": ""
             }
           ]

@@ -50,4 +50,13 @@ void Joker::display() const {
     else {
         cout << "[" << color << number << "]";
     }
+
+}
+
+ostream& operator<<(ostream& os, const Joker& j) {
+    if(j.color=='-')
+        os<<":-)";
+    else
+        os<< "[" << j.color << j.number << "]";
+    return os;
 }

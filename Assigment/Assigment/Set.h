@@ -53,10 +53,39 @@ int Set::size() const {
     return LinkedList<Tile*>::size();
 }
 
-bool Set::isComplete() const {
-    // Implementation missing
+void Set::display(bool withIndex) const {
+    for(int i=1;<=size(); i++){
+        Tile* t=LinkedList<Tile*>::get(i);
+        t->display();
+        cout << " ";
+    }
+
+    cout << endl;
+    if(!index)
+        return;
+    for(int i=0; i<=size();i++ ){
+        cout<<i;
+        Tile* t = LinkedList<Tile*>::get(i+1);
+        if(i<10){ 
+            if (t-> isJoker() )
+                cout<<"      ";
+            else if(t->getNumber() >9 )
+                cout<<"     ";
+            else
+                cout<<"    ";
+        }
+        else{
+            if (t-> isJoker() )
+                cout<<"      ";
+            else if(t->getNumber() >9 )
+                cout<<"     ";
+            else
+                cout<<"    ";
+        }
+    }
+    cout<<endl;
 }
 
-void Set::display(bool withIndex) const {
+bool Set::isComplete() const {
     // Implementation missing
 }
