@@ -63,9 +63,36 @@ bool RunSet::merge(Set* s){
     char color =ref->getColor();
     int number=ref->getNumber();
 
-    for(int i=0; i<n;i++){
-        Tile* t=Set::pop(pos);
-        rs->put(t);
+    for(int i=0; i< s->size();i++){
+        Tile* t=s->get(i);
+        if(t->getColor() != color || t->getNumber() != number + i+1 )
+            return false;
     }
+
+    while (s->size() >0 ){
+        Tile* t = s->pop(0);
+        put(t);
+    }
+    return true;
+}
+
+bool RunSet::isComplete() {
+    Tile* ref;
+    if(size() > 0 )
+        ref=get(0);
+    else
+        return false;
+
+    char color = ref->getColor();
+    int  number=ref->getNumber();
+    for(int i=1; i<size();i++){
+        Tile* t= get(i);
+        if(t->getColor() !=color || t->getNumber() != number + i )
+            return false;
+    }
+
+    if(size() >= 3)
+        return true;
+    return true;
 
 }
